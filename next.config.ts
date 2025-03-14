@@ -2,9 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  root: "/eng-to-thai-key",
+  root: "/eng-thai-key-swap",
   output: "export",
-  basePath: "/eng-to-thai-key",
+  basePath: "/eng-thai-key-swap",
   trailingSlash: true,
 };
 
